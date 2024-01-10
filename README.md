@@ -21,3 +21,29 @@ SCREENSHOTS OF THE APPLICATION
 1)	After installing the application in the mobile.
 
 <img src="/images/1.jpg" height="400">
+
+2)	Home page in light and dark modes
+
+<img src="/images/2.jpg" height="400">
+<img src="/images/3.jpg" height="400">
+       
+4)	Options in home page in light and dark modes
+       
+
+
+5)	New Task in light and dark modes
+       
+
+
+6)	Categories and Tasks in progress in light and dark modes
+       
+7)	Tasks in Progress in a category in light and dark modes
+      
+8)	Completed Tasks in light and dark modes
+       
+
+       
+9)	Settings light and dark mode
+       
+
+10)	Task Notification
