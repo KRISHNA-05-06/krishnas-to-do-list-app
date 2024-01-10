@@ -19,30 +19,38 @@ CONNECTION TO A PHYSICAL DEVICE
 
 SCREENSHOTS OF THE APPLICATION
 1)	After installing the application in the mobile.
-
-<img src="/images/1.jpg" height="400">
+   
+   <img src="/images/1.jpg" height="400">
 
 2)	Home page in light and dark modes
-
-<img src="/images/2.jpg" height="400"> <img src="/images/3.jpg" height="400">
+   
+   <img src="/images/2.jpg" height="400"> <img src="/images/3.jpg" height="400">
        
-4)	Options in home page in light and dark modes
+3)	Options in home page in light and dark modes
+
+   <img src="/images/4.jpg" height="400"> <img src="/images/5.jpg" height="400">
        
+4)	New Task in light and dark modes
 
+   <img src="/images/6.jpg" height="400"> <img src="/images/7.jpg" height="400">
 
-5)	New Task in light and dark modes
+5)	Categories and Tasks in progress in light and dark modes
+
+   <img src="/images/8.jpg" height="400"> <img src="/images/9.jpg" height="400">
        
+6)	Tasks in Progress in a category in light and dark modes
 
-
-6)	Categories and Tasks in progress in light and dark modes
-       
-7)	Tasks in Progress in a category in light and dark modes
+   <img src="/images/10.jpg" height="400"> <img src="/images/11.jpg" height="400">
       
-8)	Completed Tasks in light and dark modes
-       
+7)	Completed Tasks in light and dark modes
 
+   <img src="/images/12.jpg" height="400"> <img src="/images/13.jpg" height="400">
+   <img src="/images/14.jpg" height="400"> <img src="/images/15.jpg" height="400">
        
-9)	Settings light and dark mode
-       
+8)	Settings light and dark mode
 
-10)	Task Notification
+   <img src="/images/16.jpg" height="400"> <img src="/images/17.jpg" height="400">
+       
+9)	Task Notification
+
+    <img src="/images/18.jpg" height="400"> <img src="/images/19.jpg" height="400">
