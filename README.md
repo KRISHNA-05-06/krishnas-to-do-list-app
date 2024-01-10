@@ -24,8 +24,7 @@ SCREENSHOTS OF THE APPLICATION
 
 2)	Home page in light and dark modes
 
-<img src="/images/2.jpg" height="400">
-<img src="/images/3.jpg" height="400">
+<img src="/images/2.jpg" height="400"> <img src="/images/3.jpg" height="400">
        
 4)	Options in home page in light and dark modes
        
