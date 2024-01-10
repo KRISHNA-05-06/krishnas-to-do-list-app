@@ -55,9 +55,3 @@ SCREENSHOTS OF THE APPLICATION
 
     <img src="/images/18.jpg" height="400"> <img src="/images/19.jpg" height="400">
 
-**ToDoListApp** is based on the MVVM architecture and the Repository pattern, which follows the [Google's official architecture guidance](https://developer.android.com/topic/architecture).
-
-![architecture](figure/figure0.png)
-
-## Room Database Structure
-![database structure](figure/RoomDBStructure.png)
